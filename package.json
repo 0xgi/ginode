@@ -1,0 +1,32 @@
+{
+  "name": "ginode",
+  "version": "0.0.1",
+  "description": "DOM controller. Access attribute, get, set value,.. from element.",
+  "main": "ginode.js",
+  "scripts": {
+    "test": "grunt "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xgi/ginode"
+  },
+  "keywords": [
+    "ginode",
+    "DOM",
+    "element",
+    "javascript"
+  ],
+  "author": "lephuhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xgi/ginode/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "bower": "~1.4.1",
+    "grunt-bower-concat": "~0.5.0",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-jshint": "~0.11.2",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
