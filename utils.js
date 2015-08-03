@@ -96,3 +96,26 @@
 
 
 	}
+
+
+
+	/**
+ * Created by lephuhai on 8/3/15.
+ */
+'use strict';
+
+
+let img = function () {
+    img.prototype.type = 'img';
+
+    img.DEFAULT = {
+        src: '#',
+        href: '#'
+    };
+    var Attributes = {
+
+    };
+        console.log(Object.keys(img.DEFAULT).length);
+
+};
+
